@@ -27,7 +27,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif " width="10%" height="10%"/> My Portfolio
+### <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif " width="30%" height="10%"/> My Portfolio
 
 Check out my portfolio over, and find out about my projects, work experience and much more <a href="https://ansh-chaturmohta.github.io/mine">here</a>
 
@@ -58,7 +58,19 @@ I am a Full Stack Developer and Competitive Coder from India.
   </a>
 </div>
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/Mail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ansh.chaturmohta@gmail.com)
+- :mailbox:How to reach me: 
+
+<div id="badges" align="center">
+  <a href="mailto:ansh.chaturmohta@gmail.com">
+    <img src="https://img.shields.io/badge/personal-white?style=for-the-badge&logo=gmail&logoColor=redr" alt="Mail Badge"/>
+  </a>
+  <a href="mailto:20je0159@am.iitism.ac.in">
+    <img src="https://img.shields.io/badge/college-white?style=for-the-badge&logo=gmail&logoColor=redr" alt="Mail Badge"/>
+  <a href="https://wa.me/918007111911?text=">
+    <img src="https://img.shields.io/badge/whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=redr" alt="Whatsapp Badge"/>
+  </a>
+</div>
+
 
 ---
 
