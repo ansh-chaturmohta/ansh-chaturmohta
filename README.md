@@ -26,9 +26,11 @@
 </div>
 
 ---
-<div>
-<img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif " width="30%" height="20%"/> 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="70%" height="40%"/>
 </div>
+
 ### My Portfolio
 
 Check out my portfolio over, and find out about my projects, work experience and much more <a href="https://ansh-chaturmohta.github.io/mine">here</a>
