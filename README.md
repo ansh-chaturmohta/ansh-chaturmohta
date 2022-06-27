@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width="70%" height="40%"/>
+  <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif" width="30%" height="20%"/>
 </div>
 
 ### My Portfolio
