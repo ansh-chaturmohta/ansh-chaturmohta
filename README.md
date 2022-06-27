@@ -16,8 +16,8 @@
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=ansh-chaturmohta&style=flat-square&color=blue" alt=""/> -->
 
-### hey there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+<h1> hey there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h1>
 
 </div>
 
