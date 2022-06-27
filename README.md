@@ -27,7 +27,9 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif " width="30%" height="10%"/> My Portfolio
+<img src="https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif " width="30%" height="20%"/> 
+
+### My Portfolio
 
 Check out my portfolio over, and find out about my projects, work experience and much more <a href="https://ansh-chaturmohta.github.io/mine">here</a>
 
