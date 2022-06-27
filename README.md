@@ -33,7 +33,7 @@
 
 ### My Portfolio
 
-Check out my portfolio over, and find out about my projects, work experience and much more <a href="https://ansh-chaturmohta.github.io/mine">here</a>
+Check out my portfolio, and find out more about me ,my projects, work experience and much more <a href="https://ansh-chaturmohta.github.io/mine">here</a>
 
 ---
 
